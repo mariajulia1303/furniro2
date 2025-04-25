@@ -1,0 +1,26 @@
+/*reset css*/
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    background: none;
+}
+
+header{
+    width: 100%;;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+nav{
+    display: flex;
+
+}
+
+.account-buttons{
+    display: flex;
+}
